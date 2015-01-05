@@ -19,13 +19,13 @@
 define('DB_NAME', 'myungwptesting');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'bed83b6dd82877');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'a68d8cab');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cdbr-azure-northcentral-a.cleardb.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
